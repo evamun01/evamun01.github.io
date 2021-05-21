@@ -191,7 +191,7 @@
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="227"></int>
+                  <int value="231"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -205,7 +205,7 @@
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="28_116_2.1"></unicode>
+                <unicode value="28_116_2.2"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -216,7 +216,7 @@
                   <string role="key" value="_storageName"></string>
                   <string value="Teatro_del_Siglo_de_Oro.jpg"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\eva\\appdata\\local\\temp\\tmprb1cwg\\Teatro_del_Siglo_de_Oro.jpg"></string>
+                  <string value="c:\\users\\eva\\appdata\\local\\temp\\tmp4tn0v0\\Teatro_del_Siglo_de_Oro.jpg"></string>
                   <string role="key" value="checksum"></string>
                   <string value="1873e96efe2d72a689b446fd146a208b"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -245,7 +245,7 @@
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="2"></int>
+           <int value="3"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -398,7 +398,7 @@
                    <instance class="exe.engine.field.TextField">
                     <dictionary>
                      <string role="key" value="_id"></string>
-                     <int value="225"></int>
+                     <int value="229"></int>
                      <string role="key" value="_idevice"></string>
                      <none></none>
                      <string role="key" value="_instruc"></string>
@@ -412,7 +412,7 @@
                     </dictionary>
                    </instance>
                    <string role="key" value="_id"></string>
-                   <unicode value="0_108_2.2"></unicode>
+                   <unicode value="0_108_2.3"></unicode>
                    <string role="key" value="_imageResource"></string>
                    <instance class="exe.engine.resource.Resource" reference="9">
                     <dictionary>
@@ -423,7 +423,7 @@
                      <string role="key" value="_storageName"></string>
                      <string value="corral.jpg"></string>
                      <string role="key" value="_userName"></string>
-                     <string value="c:\\users\\eva\\appdata\\local\\temp\\tmprb1cwg\\corral.jpg"></string>
+                     <string value="c:\\users\\eva\\appdata\\local\\temp\\tmp4tn0v0\\corral.jpg"></string>
                      <string role="key" value="checksum"></string>
                      <string value="5a681c912439647663f80a78dc322b4e"></string>
                      <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -452,7 +452,7 @@
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary></dictionary>
               <string role="key" value="nextImageId"></string>
-              <int value="3"></int>
+              <int value="4"></int>
               <string role="key" value="parentNode"></string>
               <reference key="8"></reference>
              </dictionary>
@@ -574,7 +574,7 @@
                 <string role="key" value="_storageName"></string>
                 <string value="slides.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\eva\\appdata\\local\\temp\\tmprb1cwg\\slides.pdf"></string>
+                <string value="c:\\users\\eva\\appdata\\local\\temp\\tmp4tn0v0\\slides.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="21a7aa8894a61b88ebc6c04b1d8a9ddf"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -902,7 +902,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                 <string role="key" value="_storageName"></string>
                 <string value="slides2.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\eva\\appdata\\local\\temp\\tmprb1cwg\\slides2.pdf"></string>
+                <string value="c:\\users\\eva\\appdata\\local\\temp\\tmp4tn0v0\\slides2.pdf"></string>
                 <string role="key" value="checksum"></string>
                 <string value="3b494457331b24d2a6fa05f02b17090d"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1912,7 +1912,7 @@ estudiante a responder la pregunta."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="226"></int>
+                        <int value="230"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1926,7 +1926,7 @@ estudiante a responder la pregunta."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="13_121_2.2"></unicode>
+                      <unicode value="13_121_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="42">
                        <dictionary>
@@ -1937,7 +1937,7 @@ estudiante a responder la pregunta."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="lope.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\eva\\appdata\\local\\temp\\tmprb1cwg\\lope.jpg"></string>
+                        <string value="c:\\users\\eva\\appdata\\local\\temp\\tmp4tn0v0\\lope.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f225116c8b110275348c887062763908"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1966,7 +1966,7 @@ estudiante a responder la pregunta."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="41"></reference>
                 </dictionary>
@@ -2061,7 +2061,7 @@ estudiante a responder la pregunta."></unicode>
                    <string role="key" value="_storageName"></string>
                    <string value="epub.zip"></string>
                    <string role="key" value="_userName"></string>
-                   <string value="c:\\users\\eva\\appdata\\local\\temp\\tmprb1cwg\\epub.zip"></string>
+                   <string value="c:\\users\\eva\\appdata\\local\\temp\\tmp4tn0v0\\epub.zip"></string>
                    <string role="key" value="checksum"></string>
                    <string value="d2f35e90ec19e79fc4fbb9ec25f5e67d"></string>
                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2294,7 +2294,7 @@ estudiante a responder la pregunta."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="224"></int>
+                        <int value="228"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2308,7 +2308,7 @@ estudiante a responder la pregunta."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="16_124_2.2"></unicode>
+                      <unicode value="16_124_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="50">
                        <dictionary>
@@ -2319,7 +2319,7 @@ estudiante a responder la pregunta."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="barca.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="c:\\users\\eva\\appdata\\local\\temp\\tmprb1cwg\\barca.jpg"></string>
+                        <string value="c:\\users\\eva\\appdata\\local\\temp\\tmp4tn0v0\\barca.jpg"></string>
                         <string role="key" value="checksum"></string>
                         <string value="1e1f476b0908b55e93d265594c34820d"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2348,7 +2348,7 @@ estudiante a responder la pregunta."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="49"></reference>
                 </dictionary>
@@ -3172,9 +3172,9 @@ estudiante a responder la pregunta."></unicode>
                 <string role="key" value="_storageName"></string>
                 <string value="guia.pdf"></string>
                 <string role="key" value="_userName"></string>
-                <string value="c:\\users\\eva\\appdata\\local\\temp\\tmprb1cwg\\guia.pdf"></string>
+                <string value="C:\\Users\\Eva\\Documents\\Exelearning\\teatro\\guia.pdf"></string>
                 <string role="key" value="checksum"></string>
-                <string value="898ab14689f481e464adef3d11c41d31"></string>
+                <string value="c7552143606d23cb6d0f8b54774c566a"></string>
                 <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                 <int value="2"></int>
                 <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -4753,7 +4753,7 @@ estudiante a responder la pregunta."></unicode>
    <list>
     <reference key="9"></reference>
    </list>
-   <string role="key" value="898ab14689f481e464adef3d11c41d31"></string>
+   <string role="key" value="c7552143606d23cb6d0f8b54774c566a"></string>
    <list>
     <reference key="67"></reference>
    </list>
